@@ -1,0 +1,27 @@
+.site-header{
+ background-color: #1bbc9b;
+ color: rgb(206, 214, 221);
+ height: 100vh;
+ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ align-items: center;
+}
+.site-header-contain{
+    margin: 10px;
+}
+.profile-pick{
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    align-self: center;
+    box-shadow: black;
+}
+.link{
+    color:white;
+
+}
+body{
+    margin: 0;
+}
